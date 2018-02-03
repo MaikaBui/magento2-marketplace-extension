@@ -1,5 +1,5 @@
 # 1. Marketplace
-Puts your website on top position by letting vendors/ sellers manage a wide range of things by themselves easily. Our magento 2 marketplace extension helps you turn everything into an automatic online marketplace like Amazon, eBay, Etsy...You sellers can take a full control of their products, sales, invoices, shipments, credit memos using a Seller Cpanel. Also, Customer can give reviews and rating for sellers as well as their products &amp; services.
+Puts your website on top position by letting vendors/ sellers manage a wide range of things by themselves easily. Our [magento 2 marketplace extension](https://landofcoder.com/magento-2-marketplace-extension.html/) helps you turn everything into an automatic online marketplace like Amazon, eBay, Etsy...You sellers can take a full control of their products, sales, invoices, shipments, credit memos using a Seller Cpanel. Also, Customer can give reviews and rating for sellers as well as their products &amp; services.
 ## 2. Documentation
 
 - Installation guide: https://www.mageplaza.com/install-magento-2-extension/
