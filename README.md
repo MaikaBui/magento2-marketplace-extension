@@ -174,3 +174,5 @@ Our magento 2 multi vendor marketplace extension support unlimited vendors, mult
 - [Magento 2 Hide Price](https://landofcoder.com/magento-2-hide-price.html/)
 - [Magento 2 Price Comparison](https://landofcoder.com/magento-2-price-comparison.html/)
 - [Magento 2 SMTP Extension](https://landofcoder.com/magento-2-smtp-extension.html)
+
+Sources: https://landofcoder.com/magento-2-marketplace-extension.html/
