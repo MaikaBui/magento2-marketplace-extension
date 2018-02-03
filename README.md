@@ -35,6 +35,93 @@ No matter what Magento 2 themes you apply on, this extension would work flawless
 
 ### Effective Feedback & Review for Sellers
 The reputation of a product will be decided by the customers’ attutudes. It can increase the sale rate and bring more benefits for you with the help of good reviews and rating. Meeting that demand, with Magento Marketplace extension, customers can give reviews and feedbacks on the product that they have purchased. Moreover, they are able to provide the rating of the vendor who sells the product. The reviews will be published after being approved by administrator.
+
+### Amazing User Experience with Seller Cpanel
+Our intuitive frontend UI is extremely easy to use. There is no experience required. Anyone can sign up and start selling easily.
+
+### Super Fast Responsive & Mobile Optimized marketplace
+Thanks to being fully Responsive and Mobile Optimization, this extension appears perfectly on any kind of screens. So user experience improves significantly.
+
+### Create Unlimited Sellers With Smart Store Front
+Our Magento 2 Marketplace Extension bring you the best storefront ever. It is the combination between trending marketplace design with amazing features that help you to create an enjoyable customer experiences.
+
+### Showcase Beautiful Seller Profile
+Sellers can create their own profile page to promote their brand, products and services. Also there are several options for them to add your business information easily.
+
+
+### Compatible with Any Magento 2 Themes
+Marketplace Extension for Magento 2 is fully compatible with most standard Magento 2 themes. If you are wondering it is compatible with your custom theme or not, send us yours we will check for you.
+
+### Build Auto Marketplace: Vendors Manage Almost All Of Things
+Vendor/ Seller can take a full control of selling products on your marketplace including: coupons, discounts, reviews, withdraws, earning reports, support, everything on frontend!
+
+### Create Flexible Commission Effortless
+- You can set multiple commission rate for vendors.
+- You can set different conditions for each commission rule
+- You can pay commission by fixed price or percent of product price.
+
+### Multiple Gateways & Multilingual ready
+There are 10+ most popular gateways supported including: PayPal, Authorize.Net, Braintree, Sage Pay, Google Checkout, Amazon Payment, WePay, 2CheckOut, Dwolla, Skrill (Moneybookers). Multiple Payment gateway helps your market to sell in any country, with tax rates built-in.
+
+### Auto Approve Seller Or Approve Manually
+In the admin panel, there are 2 options that you can approve seller automatically or you can set it manually.
+
+
+### Multiple Vendor Product(S) Checkout At Once
+With this function, your customers can purchase the product from various sellers and vendors at once. It is convenient for you
+
+
+### Showcase Seller Credit Account Professionally
+With our magento 2 marketplace extension, seller are given their own credit account that you can received from payment of each order. Sellers can use these credit to purchase products on your marketplace.
+
+### Smart Manage Transaction Incredibly
+In seller Cpanel, vendors can track and manage transaction with ease.
+
+### Unlimited Product Management
+Vendor or seller can manage and view their products and inventory with ease
+
+### Manage Order Fast & Live
+Also, vendor can view and manage their orders, invoices and credit memos
+
+### Fast Performance Report System
+Using report system, you and your sellers can see all reports: sale report by day, sales report by month, sale report by year, your top countries, last order, best seller, most viewed products
+
+### Effective Feedback & Review
+Purchasers can give review and feedback on the product that they have purchased. Moreover, they are able to provide the rating of the vendor who sells the product. The review will be published after being approved by administrator
+
+### Display Vacation Setting Professionally
+With magento 2 marketplace extension, sellers can set vacation duration and message for their store if they are on vacation.
+
+### Improve Search Engine Ranking with SEO Management
+This extension supports SEF urls for vendor profile that means every seller / vendor will have a unique url. It is super useful for google robots and customer to remember. Also seller / vendor can add the SEO information under their panel
+
+
+### Set Up Notification/Mail System Effortlessly
+Seller will get email notification for their registration, product approval. Also, it will send email for seller if there is any order, invoice, shipment
+
+### Easy To Customize, Make Your Own Marketplace Fast
+The extensions are fully open source, you can easily customize the extension as your requirements
+
+### Create A Perfect and Beautiful Marketplace Page
+This marketplace page helps you showcase and manage all sellers in one page.
+
+### Multiple Stunning Vendor Shop Page
+Moreover, sellers also have their own page with their product collection, profile and contact info.
+
+
+### Create Unlimited vendors and products
+Our magento 2 multi vendor marketplace extension support unlimited vendors, multiple payment & shipping gateways, much more!
+
+### Improved Your Social Media Profiles
+- Twitter
+- Facebook
+- Instagram
+- Google Plus
+- Youtube
+- Linkedin
+- Vimeo
+- Pinterest
+
 ## 4. Full features:
 - Amazing User Experience with Seller Cpanel
 - Super Fast Responsive & Mobile Optimized marketplace
